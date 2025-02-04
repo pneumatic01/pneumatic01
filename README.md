@@ -5,7 +5,7 @@ Student studying Game Development and Programming at a university in London.
 - I have studied Computer Sciene, IT and History in sixth form.
 - I enjoy playing games specifically Soulslike games, the Dark Souls franchise are my favourites.
 
-Im currently learning C++, Unity and C# and a bit of Unreal Engine 5. I have some basic experience with LUA from using the ROBLOX engine in the past. Whenever I make projects ill post them here as soon as possible. I enjoy creating my own systems and solving problems through programming and since i enjoy games, that is the reason that drove me to becoming a games programmer. Have done some past maths in university from basic algebra to calculus such as differentiation and integration.
+Im currently learning C++, Unity and C# and a bit of Unreal Engine 5. I have some basic experience with LUA in the past. Whenever I make projects ill post them here as soon as possible. I enjoy creating my own systems and solving problems through programming and since i enjoy games, that is the reason that drove me to becoming a games programmer. Have done some past maths in university from basic algebra to calculus such as differentiation and integration.
 
 If I had a choice to pick another course to learn, I would have picked electrical engineering as i gained interest recently in the subject and plan to make it a side hobby.
 
